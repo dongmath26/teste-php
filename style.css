@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    padding: 2px;
+}
+button{
+    border-radius: 7px;
+    height: 2%;
+    width: 15%;
+}
+button:hover{
+    box-shadow: 2px 1px 4px rgba(0, 0, 0, 0.4)inset;
+}
+main{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    background: royalblue;
+}
